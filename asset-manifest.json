@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kaustubhm1997.github.io/csb-mujsn/static/css/main.0695c650.chunk.css",
+    "main.js": "https://kaustubhm1997.github.io/csb-mujsn/static/js/main.83c5a145.chunk.js",
+    "main.js.map": "https://kaustubhm1997.github.io/csb-mujsn/static/js/main.83c5a145.chunk.js.map",
+    "runtime-main.js": "https://kaustubhm1997.github.io/csb-mujsn/static/js/runtime-main.8a7e4c24.js",
+    "runtime-main.js.map": "https://kaustubhm1997.github.io/csb-mujsn/static/js/runtime-main.8a7e4c24.js.map",
+    "static/js/2.922b7140.chunk.js": "https://kaustubhm1997.github.io/csb-mujsn/static/js/2.922b7140.chunk.js",
+    "static/js/2.922b7140.chunk.js.map": "https://kaustubhm1997.github.io/csb-mujsn/static/js/2.922b7140.chunk.js.map",
+    "index.html": "https://kaustubhm1997.github.io/csb-mujsn/index.html",
+    "static/css/main.0695c650.chunk.css.map": "https://kaustubhm1997.github.io/csb-mujsn/static/css/main.0695c650.chunk.css.map",
+    "static/js/2.922b7140.chunk.js.LICENSE.txt": "https://kaustubhm1997.github.io/csb-mujsn/static/js/2.922b7140.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a7e4c24.js",
+    "static/js/2.922b7140.chunk.js",
+    "static/css/main.0695c650.chunk.css",
+    "static/js/main.83c5a145.chunk.js"
+  ]
+}
